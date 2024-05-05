@@ -1,3 +1,10 @@
+This project is aimed at book enthusiasts who want to download books easily.
+
+## How to Use
+1. Visit the website [link].
+2. Sign up for an account.
+3. Browse the collection of books.
+4. Click on a book to download.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
